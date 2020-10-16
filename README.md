@@ -1,6 +1,6 @@
 
 <div align="center">
-  <b>Hello, I'm Luiz Fernando</b>
+  ## Hello, I'm Luiz Fernando ##
 </div>
 
 ------
