@@ -9,7 +9,7 @@ Technologies: <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>Reac
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/natan-souza-a07196155/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/luiz-boas-developer/">Linkedin</a> •
  <a href="mailto:luizfernandowork1@gmail.com?subject=&body=">Email</a>
 </p>
 
