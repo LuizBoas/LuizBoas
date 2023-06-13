@@ -4,7 +4,7 @@
 
 I am a Full Stack Developer with over 3 years of experience in the technology field, graduated in Computer Science from the [Federal University of Campina Grande](https://portal.ufcg.edu.br/).
 
-Technologies: <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>, <b>Spring Boot</b>, <b>Oracle BD</b> 
+Technologies: <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>, <b>Spring</b>, <b>Oracle BD</b> 
 
 ---
 
